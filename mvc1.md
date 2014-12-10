@@ -1,4 +1,4 @@
-# Marvel vs. Capcom
+# Marvel vs Capcom
 
 
 ### 1998-12-22
@@ -82,4 +82,94 @@ Rank    Player                    From                    Character
 13      Kyle                      ?                       ?
 13      Steven Fidler             Rutgers U.              ?
 13      Todd Dwyer                Piscataway, NJ          ?
+```
+
+
+### 1998-11-10
+
+```
+Number of Players: 11
+
+Rank    Player                    From              Character
+----    ------                    ----              ---------
+1       Yul Kang                  Rutgers U.        Chun-Li + Wolverine
+2       "Big Head" Ed Espino      Piscataway, NJ    Strider + Wolverine
+3       Branimir "B-Man" Beric    Warren, NJ        ?
+4       Brian "B3" Fritz          Greenbrook, NJ    ?
+5       Jason Masters             Warren, NJ        ?
+5       Allan "Kei" Chow          Edison, NJ        Jin + Zangief
+7       Joe Schenk                Piscataway, NJ    ?
+7       David Tung                Dunellen, NJ      ?
+9       John Holmes               Greenbrook, NJ    Red Venom + Venom
+9       Zena                      Greenbrook, NJ    ?
+9       Steven "Egg" Fidler       Rutgers U.        ?
+```
+
+
+### 1998-11-03
+
+```
+Number of Players: 14
+
+Rank    Player              From                    Character
+----    ------              ----                    ---------
+1       Eddie Lee           Queens, NY              Strider + War Machine
+2       Ed Espino           Piscataway, NJ          Strider + Wolverine
+3       Yul Kang            Rutgers U.              Spider-Man + Wolverine
+4       Suresh Nieves       Rutgers U.              Cpt.America + Hulk
+5       Rich Figueroa       North Plainfield, NJ    ?
+5       John Holmes         Greenbrook, NJ          Red Venom + Venom
+7       Todd Dwyer          Piscataway, NJ          ?
+7       Jason Masters       Warren, NJ              ?
+9       "Super" Mario       ?                       ?
+9       Branimir Beric      Warren, NJ              ?
+9       Chris Hickman       Greenbrook, NJ          ?
+9       Allan "Kei" Chow    Edison, NJ              Jin + Zangief
+13      Steven Fidler       Rutgers U.              ?
+13      Brian "B3" Fritz    Greenbrook, NJ          ?
+```
+
+
+### 1998-10-27
+
+```
+Number of Players: 13
+
+Rank    Player                   From                    Character
+----    ------                   ----                    ---------
+1       John "Death" Dacles      Rutgers U.              Strider + Wolverine
+2       "Big Head" Ed Espino     Piscataway, NJ          Strider + Wolverine
+3       Eddie Lee                Queens, NY              ?
+4       Suresh "Soshi" Nieves    Rutgers U.              Cpt.America + Hulk
+5       Brian "B3" Fritz         Greenbrook, NJ          ?
+5       David Tung               Dunellen, NJ            ?
+7       Yul Kang                 Rutgers U.              Spider-Man + Wolverine
+7       Todd Dwyer               Piscataway, NJ          ?
+9       Rich Figueroa            North Plainfield, NJ    ?
+9       John Holmes              Greenbrook, NJ          Red Venom + Venom
+9       Allan "Kei" Chow         Edison, NJ              Jin + Zangief
+9       Mario                    ?                       ?
+13      Zena                     Greenbrook, NJ          ?
+```
+
+
+### 1998-10-20
+
+```
+Number of Players: 12
+
+Rank    Player                   From                    Character
+----    ------                   ----                    ---------
+1       Eddie Lee                Queens, NY              Strider + Wolverine
+2       Ed Espino                Piscataway, NJ          Strider + Wolverine
+3       Yul Kang                 Rutgers U.              Spider-Man + Wolverine
+4       John Holmes              Greenbrook, NJ          Red Venom + Venom
+5       Rich Figueroa            North Plainfield, NJ    ?
+5       Suresh "Soshi" Nieves    Rutgers U.              Cpt.America + Hulk
+7       Brian "B3" Fritz         Greenbrook, NJ          ?
+7       Todd Dwyer               Piscataway, NJ          ?
+9       Marc Aguirre             Rutgers U.              ?
+9       Nik                      ?                       ?
+9       David Tung               Dunellen, NJ            ?
+9       Allan "Kei" Chow         Edison, NJ              Jin + Zangief
 ```
