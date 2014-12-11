@@ -271,3 +271,74 @@ Rank    Player                 From                    Character
 13      Jason Masters          Warren, NJ              ?
 13      Todd Dwyer             Piscataway, NJ          ?
 ```
+
+
+### 1998-09-15
+
+```
+Number of Players: 15
+
+Rank    Player                    From                    Character
+----    ------                    ----                    ---------
+1       Eddie Lee                 Queens, NY              Double War Machine
+2       Henry Tsai                Bridgewater, NJ         ?
+3       Yul Kang                  Rutgers U.              Spider-Man + Wolverine
+4       Ed Espino                 Piscataway, NJ          Strider + Wolverine
+5       Marc Aguirre              Rutgers U.              ?
+5       Rich Figueroa             North Plainfield, NJ    Strider + Wolverine
+7       John Holmes               Greenbrook, NJ          Red Venom + Venom
+7       Steven Fidler             Rutgers U.              ?
+9       Jason Masters             Warren, NJ              ?
+9       Branimir "B-Man" Beric    Warren, NJ              ?
+9       Brian "B3" Fritz          Greenbrook, NJ          ?
+9       Todd Dwyer                Piscataway, NJ          ?
+13      David Tung                Dunellen, NJ            ?
+13      Allan "Kei" Chow          Edison, NJ              Jin + Zangief
+13      John "Death" Dacles       Rutgers U.              ?
+```
+
+
+### 1998-09-08
+
+```
+Number of Players: 13
+
+Rank    Player                     From               Character
+----    ------                     ----               ---------
+1       Henry Tsai                 Bridgewater, NJ    Strider + Wolverine
+2       Yul Kang                   Rutgers U.         Spider-Man + Wolverine
+3       John "Death" Dacles        Rutgers U.         ?
+4       "Scrubby" Chris Hickman    Greenbrook, NJ     ?
+5       John Holmes                Greenbrook, NJ     Red Venom + Venom
+5       David Tung                 ?                  ?
+7       Allan "Kei" Chow           Edison, NJ         Jin + Zangief
+7       JM                         ?                  ?
+9       Brian "B3" Fritz           Greenbrook, NJ     ?
+9       Suresh Nieves              Rutgers U.         Cpt.America + Hulk
+9       Branimir "B-Man" Beric     Warren, NJ         ?
+9       Marc Aguirre               Rutgers U.         ?
+13      Todd "IDPTDG" Dwyer *      Piscataway, NJ     ?
+
+* I don't play this dumb game!
+```
+
+
+### 1998-09-01
+
+```
+Number of Players: 11
+
+Rank    Player              From               Character
+----    ------              ----               ---------
+1       Henry Tsai          Bridgewater, NJ    Strider + Wolverine
+2       Yul Kang            Rutgers U.         Spider-Man + Wolverine
+3       Allan "Kei" Chow    Edison, NJ         Jin + Zangief
+4       Ed Espino           Piscataway, NJ     Strider + Wolverine
+5       John Holmes         Greenbrook, NJ     Red Venom + Venom
+5       Branimir Beric      Warren, NJ         ?
+7       Brian "B3" Fritz    Greenbrook, NJ     ?
+7       Marc Aguirre        Rutgers U.         ?
+9       Todd Dwyer          Piscataway, NJ     ?
+9       JM                  ?                  ?
+9       Steve Fidler        Rutgers U.         ?
+```
