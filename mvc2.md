@@ -227,3 +227,66 @@ Rank    Player                From            Character
 
 Remaining ranks unknown.
 ```
+
+
+### 2001-06-28
+
+```
+Number of Players: 22
+
+Rank    Player             From            Character
+----    ------             ----            ---------
+1       Sanford Kelly      New York        ?
+2       Julian Robinson    Pennsylvania    ?
+3       Wayne Davies       ?               ?
+4       Bryheem Keys       Pennsylvania    ?
+5       Eric Arroyo        ?               ?
+5       Desmond Pinkney    New York        ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-04-05
+
+```
+Number of Players: 12
+
+Rank    Player                     From                  Character
+----    ------                     ----                  ---------
+1       Arturo Sanchez             New York, NY          ?
+2       Vincent Velasquez          Paterson, NJ          ?
+3       "Sailor Mike" Gage         Edison, NJ            ?
+4       John Dacles                Pompton Plains, NJ    ?
+5       Nick Pompillo              Paterson, NJ          ?
+5       Carl                       New Brunswick, NJ     ?
+7       "Nightmare James" Sorge    Jackson, NJ           ?
+7       Shaheed                    Paterson, NJ          ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-03-22
+
+```
+Number of Players: ?
+
+Rank    Player                     From                  Character
+----    ------                     ----                  ---------
+1       Nick Pompillo              Wayne, NJ             ?
+2       John Dacles                Pompton Plains, NJ    ?
+3       Alex Monin                 Old Bridge, NJ        ?
+4       John Crespo                Irvington, NJ         ?
+5       Carl                       New Brunswick, NJ     ?
+5       Vincent Velasquez          Wayne, NJ             ?
+7       David Turner               Dunellen, NJ          ?
+7       Ed Espino                  Piscataway, NJ        ?
+9       Mike N.                    Wayne, NJ             ?
+9       Magata Aguirre             New Brunswick, NJ     ?
+9       "Nightmare" James Sorge    Jackson, NJ           ?
+9       Jamal                      Plainfield, NJ        ?
+13      Todd Dwyer                 Piscataway, NJ        ?
+
+Remaining ranks unknown.
+```
