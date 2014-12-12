@@ -71,3 +71,85 @@ Rank    Player           From          Character
 
 Remaining ranks unknown.
 ```
+
+
+### 2001-09-20
+
+```
+Number of Players: ?
+
+Rank    Player           From          Character
+----    ------           ----          ---------
+1       Alex "AK" Koo    New Jersey    Magneto + Storm + Tron
+2       Shawn            ?             Storm + Cable + Sentinel
+3       Steve Hanna      ?             Cable + Doom + Cammy
+4       Alex Monin       New Jersey    Magneto + Sentinel + Psylocke
+5       David Turner     New Jersey    Storm + Sentinel + Commando
+5       Eric             ?             Magneto + Rouge + Commando
+
+Remaining ranks unknown.
+```
+
+
+### 2001-09-13
+
+```
+Number of Players: 14
+
+Rank    Player                From          Character
+----    ------                ----          ---------
+1       Alex Koo              New Jersey    ?
+2       "Sexy" Ken Meadows    New Jersey    ?
+3       Steve                 ?             ?
+4       Erik                  ?             ?
+5       Kobe                  ?             ?
+5       David Turner          New Jersey    ?
+7       Jay                   New Jersey    ?
+7       Alex                  ?             ?
+9       Phi                   New Jersey    ?
+9       - BYE -               ?             ?
+9       "Nightmare" James     New Jersey    ?
+9       Ed Espino             New Jersey    ?
+13      Jamal                 ?             ?
+13      - BYE -               ?             ?
+13      Carl                  ?             ?
+13      "Evil Bitch"          ?             ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-08-30
+
+```
+Number of Players: ?
+
+Rank    Player                 From          Character
+----    ------                 ----          ---------
+1       Josh Wong              New Jersey    Magneto + Cable + Sentinel
+2       "Sexeh" Ken Meadows    New Jersey    Blackheart + Sentinel + Commando
+3       Jose Hernadez          New Jersey    Cammy + Cable + Sentinel
+4       John Dacles            New Jersey    Spiral + Cable + Sentinel
+5       Kenderson              ?             ?
+5       Arturo Sanchez         New York      ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-08-23
+
+```
+Number of Players: ?
+
+Rank    Player                From          Character
+----    ------                ----          ---------
+1       "Sexy" Ken Meadows    New Jersey    Sentinel + Blackheart + Commando
+2       Nick Pomponio         New Jersey    Blackheart + Cable + Cyclops
+3       Jose                  New York      Magneto + Cable + Cammy
+4       Wayne Davies          New Jersey    Spiral + Storm + Commando
+5       "Sailor" Mike Gage    New Jersey    Cable + Sentinel + Doom
+5       Shawn                 New Jersey    Magneto + Storm + Sentinel
+
+Remaining ranks unknown.
+```
