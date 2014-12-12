@@ -153,3 +153,77 @@ Rank    Player                From          Character
 
 Remaining ranks unknown.
 ```
+
+
+### 2001-08-16
+
+```
+Number of Players: ?
+
+Rank    Player                 From          Character
+----    ------                 ----          ---------
+1       Sanford Kelly          New York      Magneto + Cable + Cammy
+2       Nick Pomponio          New Jersey    ?
+3       "Sexy" Ken Meadows     New Jersey    ?
+4       David Wang             New Jersey    Magneto + Cable + Psylocke
+5       John "Death" Dacles    New Jersey    Spiral + Cable + Sentinel
+5       Noel Aguinaldo         New Jersey    ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-08-09
+
+```
+Number of Players: ?
+
+Rank    Player                     From          Character
+----    ------                     ----          ---------
+1       Josh "No relation" Wong    New Jersey    Blackheart + Sentinel + Tron
+2       Vince Velasquez            New Jersey    Cable + Doom + Blackheart
+3       "Sexeh" Kennith Meadows    New Jersey    IronMan + Blackheart + Doom
+4       Nick Pomponio              New Jersey    Doom + Storm + Cyclops
+5       John Dacles                New Jersey    Spiral + Cable + Blackheart
+5       Alex "Choke" Monin         New Jersey    Doom + Cable + Blackheart
+
+Remaining ranks unknown.
+```
+
+
+### 2001-08-02
+
+```
+Number of Players: ?
+
+Rank    Player           From    Character
+----    ------           ----    ---------
+1       Ken Meadows      ?       ?
+2       Erik Arroyo      ?       ?
+3       Nick Pomponio    ?       ?
+4       John Dacles      ?       ?
+5       Shaheed Lewis    ?       ?
+5       Lawrence Carr    ?       ?
+7       Noel             ?       ?
+7       Ray Lee          ?       ?
+
+Remaining ranks unknown.
+```
+
+
+### 2001-07-05
+
+```
+Number of Players: ?
+
+Rank    Player                From            Character
+----    ------                ----            ---------
+1       Stanford Kelly        New York        ?
+2       Josh Wong             ?               ?
+3       Nick Pomponio         Paterson, NJ    ?
+4       Wayne Davies          ?               ?
+5       "Sexy" Ken Meadows    ?               ?
+5       Vince Velasquez       Paterson, NJ    ?
+
+Remaining ranks unknown.
+```
