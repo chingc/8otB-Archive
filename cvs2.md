@@ -1,6 +1,26 @@
 # Capcom vs SNK 2
 
 
+### 2001-11-29
+
+```
+Number of Players: ?
+
+*** Single Match Mode ***
+
+Rank    Player           From          Character
+----    ------           ----          ---------
+1       Kei-Groove       New Jersey    C: Ryo, Balrog
+2       Marco Sanchez    New Jersey    C: Blanka, Terry
+3       Alex Koo         New Jersey    N: Nakoruru, Sakura
+4       Jerry            New Jersey    C: Ken, Ryu
+5       Hector Garcia    New Jersey    C: Rolento, Joe
+5       Alex Monin       New Jersey    C: Blanka
+
+Remaining ranks unknown.
+```
+
+
 ### 2001-11-15
 
 ```
