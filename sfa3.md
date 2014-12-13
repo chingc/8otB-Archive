@@ -250,3 +250,111 @@ Rank    Player                     From                 Character
 13      Bert                       Rutgers U.           ?
 13      Brian "B3" Fritz           Greenbrook, NJ       A-Akuma
 ```
+
+
+### 1998-10-22
+
+```
+Number of Players: 18
+
+Rank    Player                     From                 Character
+----    ------                     ----                 ---------
+1       Eddie Lee                  Queens, NY           A-Karin, A-Rose
+2       Pete Talley                Staten Island, NY    A-M.Bison
+3       Marc Aguirre               Rutgers U.           ?
+4       Roddy Bolanos              Rutgers U.           X-Dhalsim
+5       Todd Dwyer                 Piscataway, NJ       X-Dhalsim, X-Rolento
+5       Ryan Vella                 ?                    A-Gen
+7       "Scrubby" Chris Hickman    Greenbrook, NJ       A-Zangief
+7       Hector Garcia              Livingston, NJ       A-Dhalsim
+9       Allan "Kei" Chow           Edison, NJ           AV-Zangief
+9       John "Death" Dacles        Rutgers U.           A-Rose
+9       Oscar Larico               Dunellen, NJ         A-Blanka
+9       Steven "Egg" Fidler        Rutgers U.           A-Charlie
+13      Givens                     ?                    ?
+13      Brian "B3" Fritz           Greenbrook, NJ       A-Akuma
+13      Bert                       Rutgers U.           ?
+13      Ed Espino                  Piscataway, NJ       A-Rose
+17      Roger Liu                  Rutgers U.           A-Zangief
+17      Henry Tsai                 Bridgewater, NJ      A-Ken
+```
+
+
+### 1998-10-15
+
+```
+Number of Players: 14
+
+Rank    Player                     From                    Character
+----    ------                     ----                    ---------
+1       Eddie Lee                  Queens, NY              A-Karin, A-Rose
+2       Pete Talley                Staten Island, NY       A-Charlie, A-M.Bison
+3       Marc Aguirre               Rutgers U.              ?
+4       Allan "Kei" Chow           Edison, NJ              AV-Zangief
+5       "Scrubby" Chris Hickman    Greenbrook, NJ          A-Akuma
+5       Steven "Egg" Fidler        Rutgers U.              A-Charlie
+7       Brian "B3" Fritz           Greenbrook, NJ          A-Akuma
+7       Todd Dwyer                 Piscataway, NJ          X-Dhalsim
+9       Roger Liu                  Rutgers U.              A-Zangief
+9       Terrance Morgan            Edison, NJ              A-Guy
+9       Rich Figueroa              North Plainfield, NJ    ?
+9       Ed Espino                  Piscataway, NJ          A-Rose
+13      Nik                        ?                       ?
+13      Mario                      ?                       A-Ken
+```
+
+
+### 1998-10-08
+
+```
+Number of Players: 19
+
+Rank    Player                  From                    Character
+----    ------                  ----                    ---------
+1       Eddie Lee               Queens, NY              A-Rose, V-Ryu
+2       Allan "Kei" Chow        Edison, NJ              AV-Zangief
+3       Hoa                     Rutgers U.              A-Ryu
+4       Edwin                   Rutgers U.              A-Ryu
+5       "Master" John Crespo    Newark, NJ              A-Sakura
+5       Terrance Morgan         Edison, NJ              A-Guy
+7       Todd Dwyer              Piscataway, NJ          X-Dhalsim, X-Rolento
+7       Marc Aguirre            Rutgers U.              ?
+9       Mario                   ?                       A-Ken
+9       Roger Liu               Rutgers U.              A-Zangief
+9       Oscar Larico            Dunellen, NJ            A-Blanka
+9       "Rocky" Druker          Edison, NJ              X-Birdie
+13      Ed Espino               Piscataway, NJ          A-Rose
+13      Steven "Egg" Fidler     Rutgers U.              A-Charlie
+13      Jon                     ?                       ?
+13      Brian "B3" Fritz        Greenbrook, NJ          A-Akuma
+17      Joe Schenk              Piscataway, NJ          X-Ryu
+17      Rich Figueroa           North Plainfield, NJ    ?
+17      Yul Kang                Rutgers U.              ?
+```
+
+
+### 1998-10-01
+
+```
+Number of Players: 17
+
+Rank    Player                     From              Character
+----    ------                     ----              ---------
+1       Jeff Li                    ?                 A-Gen
+2       John Crespo                Newark, NJ        A-Sakura
+3       Allan "Kei" Chow           Edison, NJ        AV-Zangief
+4       Henry Cen                  Chinatown         X-Sagat
+5       Roger Liu                  Rutgers U.        A-Zangief
+5       Todd Dwyer                 Piscataway, NJ    X-Dhalsim, X-Rolento
+7       "Scrubby" Chris Hickman    Greenbrook, NJ    A-Akuma
+7       Eddie Lee                  Queens, NY        ?
+9       Tom                        ?                 ?
+9       TJ                         ?                 ?
+9       Joe Schenk                 Piscataway, NJ    A-Ryu
+9       Hector Garcia              Livingston, NJ    A-Dhalsim
+13      Oscar Larico               Dunellen, NJ      A-Blanka
+13      Eric                       ?                 ?
+13      Ed Espino                  Piscataway, NJ    A-Rose
+13      "Rocky" Druker             Edison, NJ        X-Birdie
+17      Brian "B3" Fritz           Greenbrook, NJ    A-Akuma
+```
