@@ -358,3 +358,107 @@ Rank    Player                     From              Character
 13      "Rocky" Druker             Edison, NJ        X-Birdie
 17      Brian "B3" Fritz           Greenbrook, NJ    A-Akuma
 ```
+
+
+### 1998-09-24
+
+```
+Number of Players: 16
+
+Rank    Player                     From              Character
+----    ------                     ----              ---------
+1       Eddie Lee                  Queens, NY        A-Rose, V-Vega
+2       Todd Dwyer                 Piscataway, NJ    X-Dhalsim, X-Rolento
+3       Allan "Kei" Chow           Edison, NJ        AV-Zangief
+4       John Crespo                Newark, NJ        A-Sakura
+5       Hector Garcia              Livingston, NJ    A-Dhalsim
+5       Marc Aguirre               Rutgers U.        ?
+7       Steven "Eggy" Fidler       Rutgers U.        A-Charlie
+7       "Scrubby" Chris Hickman    Greenbrook, NJ    A-Akuma
+9       Roger Liu                  Rutgers U.        A-Zangief
+9       Brian "B3" Fritz           Greenbrook, NJ    A-Akuma
+9       TJ                         ?                 ?
+9       "Big Head" Ed Espino       Piscataway, NJ    A-Rose
+13      Rocky                      ?                 X-Birdie
+13      Rich Figueroa              Plainfield, NJ    ?
+13      Oscar Larico               Dunellen, NJ      A-Blanka
+13      Yul Kang                   Rutgers U.        ?
+```
+
+
+### 1998-09-17
+
+```
+Number of Players: 12
+
+Rank    Player              From                    Character
+----    ------              ----                    ---------
+1       Eddie Lee           Queens, NY              A-Ryu, A-Rose
+2       Todd Dwyer          Piscataway, NJ          X-Dhalsim
+3       Mike Cheng          Edison, NJ              A-M.Bison
+4       Oscar Larico        Dunellen, NJ            A-Blanka
+5       Allan "Kei" Chow    Edison, NJ              AV-Zangief
+5       Brian               ?                       ?
+7       Bill Gould          Philadelphia, PA        A-E.Honda
+7       Maston Snead        ?                       ?
+9       Rich Figueroa       North Plainfield, NJ    ?
+9       Ed Espino           Piscataway, NJ          A-Rose
+9       Chris               ?                       ?
+9       Henry Tsai          Bridgewater, NJ         A-Ken
+```
+
+
+### 1998-09-10
+
+```
+Number of Players: 17
+
+Rank    Player                     From                 Character
+----    ------                     ----                 ---------
+1       Pete Talley                Staten Island, NY    A-Charlie, A-M.Bison
+2       Henry Tsai                 Bridgewater, NJ      A-Ken
+3       Allan "Kei" Chow           Edison, NJ           A-Zangief
+4       Marc Aguirre               Rutgers U.           ?
+5       Todd Dwyer                 Piscataway, NJ       X-Rolento
+5       Mike Cheng                 Edison, NJ           A-M.Bison
+7       Steven Fidler              Rutgers U.           A-Charlie
+7       Oscar Larico               Dunellen, NJ         A-Blanka
+9       "Scrubby" Chris Hickman    Greenbrook, NJ       A-Akuma
+9       Ryan Vella                 ?                    X-Ryu
+9       Suresh Nieves              Rutgers U.           ?
+9       Henry Cen                  Chinatown            X-Sagat
+13      Chris Pierce               ?                    ?
+13      Bill Gould                 Philadelphia, PA     ?
+13      Yul Kang                   Rutgers U.           ?
+13      Kon Yen                    ?                    ?
+17      Ed Espino                  Piscataway, NJ       A-Rose
+```
+
+
+### 1998-09-03
+
+```
+Number of Players: 19
+
+Rank    Player              From                 Character
+----    ------              ----                 ---------
+1       Eddie Lee           Queens, NY           A-Ryu, X-Sodom
+2       Pete Talley         Staten Island, NY    A-Charlie, A-M.Bison
+3       John Crespo         Newark, NJ           A-Sakura
+4       Henry Tsai          Bridgewater, NJ      A-Ken
+5       Todd Dwyer          Piscataway, NJ       X-Dhalsim
+5       Marco Sanchez       Plainfield, NJ       A-Cody
+7       Allan "Kei" Chow    Edison, NJ           A-Zangief
+7       Henry Cen           Chinatown            X-Sagat
+9       Marc Aguirre        Rutgers U.           ?
+9       Hector Garcia       ?                    A-Dhalsim
+9       Ryan Vella          ?                    X-Ryu
+9       Ric Collins         ?                    A-Guy
+13      Bill Gould          ?                    A-E.Honda
+13      Rick Caroll         ?                    ?
+13      Chris Pierce        ?                    ?
+13      Yul Kang            Rutgers U.           ?
+17      Mike Cheng          Edison, NJ           A-M.Bison
+17      Eric Samson         ?                    ?
+17      Steve Fidler        Rutgers U.           A-Charlie
+```
