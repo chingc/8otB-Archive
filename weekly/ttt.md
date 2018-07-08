@@ -1,6 +1,5 @@
 # Tekken Tag Tournament
 
-
 ### 2001-08-21
 
 ```
@@ -17,7 +16,6 @@ Rank    Player                      From                    Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-08-14
 
 ```
@@ -33,7 +31,6 @@ Rank    Player                      From                    Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-08-07
 
@@ -52,7 +49,6 @@ Rank    Player                        From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-07-03
 
 ```
@@ -70,7 +66,6 @@ Rank    Player             From            Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-06-26
 
 ```
@@ -85,7 +80,6 @@ Rank    Player             From            Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-04-03
 
@@ -106,7 +100,6 @@ Rank    Player             From                    Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-03-13
 

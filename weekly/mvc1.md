@@ -1,5 +1,4 @@
-# Marvel vs Capcom
-
+# Marvel vs. Capcom
 
 ### 1998-12-22
 
@@ -19,7 +18,6 @@ Rank    Player                     From                    Character
 9       "Scrubby" Chris Hickman    Greenbrook, NJ          ?
 ```
 
-
 ### 1998-12-15
 
 ```
@@ -35,7 +33,6 @@ Rank    Player              From                    Character
 5       John Holmes         Greenbrook, NJ          Red Venom + Venom
 7       Todd Dwyer          Piscataway, NJ          ?
 ```
-
 
 ### 1998-12-01
 
@@ -58,7 +55,6 @@ Rank    Player              From                    Character
 9       Rich Figueroa       North Plainfield, NJ    ?
 13      Todd Dwyer          Piscataway, NJ          ?
 ```
-
 
 ### 1998-11-17
 
@@ -84,7 +80,6 @@ Rank    Player                    From                    Character
 13      Todd Dwyer                Piscataway, NJ          ?
 ```
 
-
 ### 1998-11-10
 
 ```
@@ -104,7 +99,6 @@ Rank    Player                    From              Character
 9       Zena                      Greenbrook, NJ    ?
 9       Steven "Egg" Fidler       Rutgers U.        ?
 ```
-
 
 ### 1998-11-03
 
@@ -129,7 +123,6 @@ Rank    Player              From                    Character
 13      Brian "B3" Fritz    Greenbrook, NJ          ?
 ```
 
-
 ### 1998-10-27
 
 ```
@@ -152,7 +145,6 @@ Rank    Player                   From                    Character
 13      Zena                     Greenbrook, NJ          ?
 ```
 
-
 ### 1998-10-20
 
 ```
@@ -173,7 +165,6 @@ Rank    Player                   From                    Character
 9       David Tung               Dunellen, NJ            ?
 9       Allan "Kei" Chow         Edison, NJ              Jin + Zangief
 ```
-
 
 ### 1998-10-13
 
@@ -202,7 +193,6 @@ Rank    Player                    From                    Character
 17      Kon Yen                   Bridgewater, NJ         ?
 ```
 
-
 ### 1998-10-06
 
 ```
@@ -221,7 +211,6 @@ Rank    Player                     From                    Character
 9       Zena                       ?                       ?
 9       Mario                      ?                       ?
 ```
-
 
 ### 1998-09-29
 
@@ -245,7 +234,6 @@ Rank    Player                    From                    Character
 13      Todd Dwyer                Piscataway, NJ          ?
 13      Steven "Eggy" Fidler      Rutgers U.              ?
 ```
-
 
 ### 1998-09-22
 
@@ -272,7 +260,6 @@ Rank    Player                 From                    Character
 13      Todd Dwyer             Piscataway, NJ          ?
 ```
 
-
 ### 1998-09-15
 
 ```
@@ -297,7 +284,6 @@ Rank    Player                    From                    Character
 13      John "Death" Dacles       Rutgers U.              ?
 ```
 
-
 ### 1998-09-08
 
 ```
@@ -321,7 +307,6 @@ Rank    Player                     From               Character
 
 * I don't play this dumb game!
 ```
-
 
 ### 1998-09-01
 

@@ -1,5 +1,4 @@
-# Marvel vs Capcom 2
-
+# Marvel vs. Capcom 2
 
 ### 2001-11-01
 
@@ -18,7 +17,6 @@ Rank    Player                  From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-10-25
 
 ```
@@ -35,7 +33,6 @@ Rank    Player           From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-10-04
 
@@ -54,7 +51,6 @@ Rank    Player                 From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-09-27
 
 ```
@@ -72,7 +68,6 @@ Rank    Player           From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-09-20
 
 ```
@@ -89,7 +84,6 @@ Rank    Player           From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-09-13
 
@@ -118,7 +112,6 @@ Rank    Player                From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-08-30
 
 ```
@@ -135,7 +128,6 @@ Rank    Player                 From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-08-23
 
@@ -154,7 +146,6 @@ Rank    Player                From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-08-16
 
 ```
@@ -172,7 +163,6 @@ Rank    Player                 From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-08-09
 
 ```
@@ -189,7 +179,6 @@ Rank    Player                     From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-08-02
 
@@ -210,7 +199,6 @@ Rank    Player           From    Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-07-05
 
 ```
@@ -228,7 +216,6 @@ Rank    Player                From            Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-06-28
 
 ```
@@ -245,7 +232,6 @@ Rank    Player             From            Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-04-05
 
@@ -265,7 +251,6 @@ Rank    Player                     From                  Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-03-22
 

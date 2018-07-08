@@ -1,5 +1,4 @@
-# X-Men vs Street Fighter
-
+# X-Men vs. Street Fighter
 
 ### 2001-10-11
 
@@ -23,7 +22,6 @@ Rank    Player                  From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-09-06
 

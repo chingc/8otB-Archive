@@ -1,6 +1,5 @@
 # Street Fighter Alpha 2
 
-
 ### 2001-10-11
 
 ```

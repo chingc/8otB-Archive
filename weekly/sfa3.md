@@ -1,6 +1,5 @@
 # Street Fighter Alpha 3
 
-
 ### 2001-04-10
 
 ```
@@ -20,7 +19,6 @@ Rank    Player                      From              Character
 Remaining ranks unknown.
 ```
 
-
 ### 1998-12-29
 
 ```
@@ -38,7 +36,6 @@ Rank    Player              From              Character
 7       Arturo Sanchez      New York, NY      ?
 9       Vince               ?                 ?
 ```
-
 
 ### 1998-12-17
 
@@ -59,7 +56,6 @@ Rank    Player                     From                 Character
 9       Yul Kang                   Rutgers U.           A-Gen
 9       Paul B.                    ?                    ?
 ```
-
 
 ### 1998-12-10
 
@@ -86,7 +82,6 @@ Rank    Player                     From                 Character
 13      Brian "B3" Fritz           Greenbrook, NJ       A-Akuma
 17      Maston                     Orange County, NJ    ?
 ```
-
 
 ### 1998-12-03
 
@@ -122,7 +117,6 @@ Rank    Player                     From                    Character
 25      Paul B.                    ?                       ?
 ```
 
-
 ### 1998-11-24
 
 ```
@@ -145,7 +139,6 @@ Rank    Player              From                    Character
 13      Danny Lopez         Matawan, NJ             A-Ryu
 13      Ed Espino           Piscataway, NJ          V-Vega
 ```
-
 
 ### 1998-11-19
 
@@ -174,7 +167,6 @@ Rank    Player                     From                    Character
 17      "Super" Mario              ?                       A-Ken
 ```
 
-
 ### 1998-11-12
 
 ```
@@ -198,7 +190,6 @@ Rank    Player                     From                    Character
 13      "Super" Mario              ?                       A-Ken
 13      Rich Figueroa              North Plainfield, NJ    ?
 ```
-
 
 ### 1998-11-05
 
@@ -227,7 +218,6 @@ Rank    Player                     From                    Character
 17      Tom                        ?                       ?
 ```
 
-
 ### 1998-10-29
 
 ```
@@ -250,7 +240,6 @@ Rank    Player                     From                 Character
 13      Bert                       Rutgers U.           ?
 13      Brian "B3" Fritz           Greenbrook, NJ       A-Akuma
 ```
-
 
 ### 1998-10-22
 
@@ -279,7 +268,6 @@ Rank    Player                     From                 Character
 17      Henry Tsai                 Bridgewater, NJ      A-Ken
 ```
 
-
 ### 1998-10-15
 
 ```
@@ -302,7 +290,6 @@ Rank    Player                     From                    Character
 13      Nik                        ?                       ?
 13      Mario                      ?                       A-Ken
 ```
-
 
 ### 1998-10-08
 
@@ -332,7 +319,6 @@ Rank    Player                  From                    Character
 17      Yul Kang                Rutgers U.              ?
 ```
 
-
 ### 1998-10-01
 
 ```
@@ -359,7 +345,6 @@ Rank    Player                     From              Character
 17      Brian "B3" Fritz           Greenbrook, NJ    A-Akuma
 ```
 
-
 ### 1998-09-24
 
 ```
@@ -385,7 +370,6 @@ Rank    Player                     From              Character
 13      Yul Kang                   Rutgers U.        ?
 ```
 
-
 ### 1998-09-17
 
 ```
@@ -406,7 +390,6 @@ Rank    Player              From                    Character
 9       Chris               ?                       ?
 9       Henry Tsai          Bridgewater, NJ         A-Ken
 ```
-
 
 ### 1998-09-10
 
@@ -433,7 +416,6 @@ Rank    Player                     From                 Character
 13      Kon Yen                    ?                    ?
 17      Ed Espino                  Piscataway, NJ       A-Rose
 ```
-
 
 ### 1998-09-03
 

@@ -1,5 +1,4 @@
-# Capcom vs SNK 2
-
+# Capcom vs. SNK 2
 
 ### 2001-11-29
 
@@ -20,7 +19,6 @@ Rank    Player           From          Character
 Remaining ranks unknown.
 ```
 
-
 ### 2001-11-15
 
 ```
@@ -39,7 +37,6 @@ Rank    Player             From          Character
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-11-08
 

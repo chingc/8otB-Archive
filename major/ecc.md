@@ -1,13 +1,12 @@
 # East Coast Championship
 
-
 ### ECC 1: 1997-05-24
 
 ```
-Location: 8 on the Break
-Organizers: Todd Dwyer, Chris Cotty
+Location: 8 on the Break, Dunellen, New Jersey
+Organizers: Chris Cotty, Todd Dwyer
 
-Game: Street Fighter 3
+Game: Street Fighter III: New Generation
 Number of Players: 28
 
 Rank    Player                   From                Character

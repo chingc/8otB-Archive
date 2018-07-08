@@ -1,6 +1,5 @@
 # Dance Dance Revolution
 
-
 ### 2001-03-27
 
 ```
@@ -18,7 +17,6 @@ Rank    Player          From
 
 Remaining ranks unknown.
 ```
-
 
 ### 2001-03-20
 
